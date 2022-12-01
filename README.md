@@ -1,16 +1,23 @@
-# spotify_clone_web_ui
+# Spotify Clone - Dart + Flutter Web
+## 📷 Video do Projeto
 
-A new Flutter project.
+https://user-images.githubusercontent.com/70405308/205085053-a3cb797c-7fc8-4853-993c-4337bbec6fa4.mp4
 
-## Getting Started
+## 📝 Descrição do projeto
+Esse clone do Spotify foi feito em Dart + Flutter Web. O clone foi criado com Flutter Web, que tem se mostrado bastante performático em aplicações front-end. Foi utilizado técnicas de responsividade Web adequando a vários tamanhos de tela. Também foi utilizado a biblioteca flutter_svg para uso de Icones Vetoriais. Para finalizar, todos os dados foram pegos de modelo dentro do própio aplicativo.
 
-This project is a starting point for a Flutter application.
+## 💻 Features do projeto
+* Icones Vetoriais com flutter_svg
+* Responsividade
+* Validação de formulário
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias e ferramentas utilizadas
+* Dart
+* Flutter Web
+* Icones Vetoriais
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📌 Links
+* [flutter_svg](https://pub.dev/packages/flutter_svg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📊 Status do projeto
+✅ Concluído
